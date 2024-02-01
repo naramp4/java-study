@@ -1,6 +1,9 @@
 package classBasic;
 
 public class Dog {
-	String dogName;
-	int dogAge;
+	public String dogName;
+	public int dogAge;
+
+	public Dog() {
+	}
 }
